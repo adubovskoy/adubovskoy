@@ -6,7 +6,7 @@ Software Engineer
 
 Sailor maan, tech lover, drama king. Typical IT guy on untyped languages who loves sugar in living life, not in food.
 
-* 🌍  I'm based in Portugal
+* 🌍  I'm digital nomand and change countries.
 * 🖥️  See my portfolio at [https://techlovers.team](http://techlovers.team)
 * ✉️  You can contact me at [alex@techlovers.team](mailto:alex@techlovers.team)
 * 🚀  I'm currently working on [Dimando](http://dimando.com/)
